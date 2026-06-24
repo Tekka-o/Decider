@@ -1,0 +1,6 @@
+{
+  "name": "契約書査定ゲーム仕様書作成プロジェクト",
+  "description": "ユーザーが提示した『契約書を査定し、ドラッグ操作で承認または破棄を選択するゲーム』の仕様書を構造的に作成・管理するプロジェクトです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
